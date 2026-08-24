@@ -240,5 +240,6 @@ docker run --env-file .env \
 ---
 
 ## Contact
-*   **Anubhav Dogra**
+**Anubhav Dogra**
+
 anubhavdogra7@gmail.com
