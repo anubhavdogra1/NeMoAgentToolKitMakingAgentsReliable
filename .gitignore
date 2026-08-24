@@ -1,0 +1,221 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.*.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv
+
+# Poetry
+poetry.lock
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.jupyter
+*.nbconvert
+
+# Node.js / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.npm
+
+# Next.js
+.next/
+out/
+.vercel
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+dist/
+*.js.map
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+
+# OS
+.DS_Store
+Thumbs.db
+.directory
+.Icon
+._*
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+.~*
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Cache
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Distribution / Packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+.vscode-remote
+
+# PyCharm
+.idea/
+*.iml
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Data Files (large datasets)
+*.csv
+*.parquet
+*.feather
+data/
+datasets/
+
+# Model Files (if storing locally)
+*.pkl
+*.pickle
+*.pth
+*.pt
+*.h5
+models/
+
+# Backup and Archive
+*.zip
+*.tar.gz
+*.rar
+archive/
+
+# Configuration Overrides
+local.config.yml
+secrets.yml
+config.local.json
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+test-results/
+coverage/
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# Temporary Build Files
+*.o
+*.a
+*.so
+
+# Misc
+.venv
+.env
+dist
+build
+*.egg-info
+.pytest_cache
+.coverage
+htmlcov
+*.pyc
+__pycache__
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+*~

@@ -1,0 +1,3 @@
+[submodule "ProductionDeploymentWithNATUI/NeMo-Agent-Toolkit-UI"]
+	path = ProductionDeploymentWithNATUI/NeMo-Agent-Toolkit-UI
+	url = https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI.git
